@@ -18,6 +18,9 @@ git clone https://github.com/Mahyar24/wg-automation && cd wg-automation;
 
 ## Usage
 
+**FIRST, FILL THE PLACEHOLDERS IN THE `main.py:23:0` FILE FOR CUSTOMIZING YOUR URI AND PORT!** then,
+
+
 ```bash
 sudo python3.9 main.py
 ```
