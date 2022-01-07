@@ -21,13 +21,13 @@ git clone https://github.com/Mahyar24/wg-automation && cd wg-automation;
 ```bash
 sudo python3.9 main.py
 ```
-This will ask you for the peer's name and after that it will make a directory with the same name which incude both the `.conf` file and QR-code picture.
+This command will ask you for the peer's name, and after that, it will make a directory with the same name, which includes both the `.conf` file and QR-code picture.
 
 P.S: You must have superuser access to run this program. Compatible with python3.9+.
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. Please open an issue first to discuss what you would like to change for significant changes.
 
 Contact me: <OSS@Mahyar24.com> :)
 
