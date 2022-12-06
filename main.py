@@ -18,7 +18,7 @@ import subprocess
 import textwrap
 from typing import Iterator
 
-# Customize this lines:
+# Customize these lines:
 
 ADDRESS = "<URI>:<PORT>"  # Replace placeholders.
 DNS = "1.1.1.1"
